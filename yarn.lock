@@ -1523,7 +1523,7 @@
   dependencies:
     "@txo/config-manager" "^3.2.0"
 
-"@txo/commitlint@^1.0.19":
+"@txo/commitlint@^1.0.20":
   version "1.0.20"
   resolved "https://registry.yarnpkg.com/@txo/commitlint/-/commitlint-1.0.20.tgz#949cff76eb7792785de21702daf3a560aa86f1b4"
   integrity sha512-cEU5P+XSjX5lpzjikf0KbvqzS+/syMZ5XZG8Aquq9KC/8NVk7M9cj5xadk3SqEi+yRk9CE1q1Lrh35bLaPE2gw==
