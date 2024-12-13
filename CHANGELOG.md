@@ -1,3 +1,10 @@
+## 1.0.0 (2024-12-13)
+
+
+### Features
+
+* initial implementation ([#1](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/1)) ([1dc953c](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/1dc953cdb54abdef9a09bb461e888f7008419d1d))
+
 ## 1.0.0 (2022-09-23)
 
 
