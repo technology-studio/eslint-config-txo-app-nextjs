@@ -26,6 +26,11 @@ export const configList = typescriptEslintConfig(
       // eslint-disable-next-line @typescript-eslint/no-deprecated -- remove when migrated to prettier
       stylisticConfig,
       ...typescriptConfigList,
+    ],
+  },
+  {
+    files: ['!playwright/**/*'],
+    extends: [
       reactConfig,
       {
         settings: {
