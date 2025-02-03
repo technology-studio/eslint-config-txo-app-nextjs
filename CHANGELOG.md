@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.24...v1.0.25) (2025-02-03)
+
+
+### Bug fixes
+
+* disable react rules for playwright ([#57](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/57)) ([562b240](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/562b24047f3c5d2a56351451110f5049ce88b5da))
+
 ## [1.0.24](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.23...v1.0.24) (2025-01-22)
 
 
