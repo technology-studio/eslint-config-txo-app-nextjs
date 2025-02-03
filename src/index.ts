@@ -8,6 +8,7 @@ import {
   stylisticConfig,
   typescriptConfigList,
   typescriptEslintConfig,
+  jestConfig,
 } from 'eslint-config-txo-typescript'
 import {
   reactConfig,
@@ -40,6 +41,10 @@ export const configList = typescriptEslintConfig(
         },
       },
     ],
+  },
+  {
+    files: ['jest/**/*'],
+    extends: [jestConfig],
   },
   {
     ignores: [
