@@ -1785,7 +1785,7 @@
     semver "^7.6.0"
     ts-api-utils "^2.0.1"
 
-"@typescript-eslint/utils@8.23.0", "@typescript-eslint/utils@^6.0.0 || ^7.0.0 || ^8.0.0", "@typescript-eslint/utils@^8.13.0", "@typescript-eslint/utils@^8.20.0", "@typescript-eslint/utils@^8.22.0":
+"@typescript-eslint/utils@8.23.0", "@typescript-eslint/utils@^6.0.0 || ^7.0.0 || ^8.0.0", "@typescript-eslint/utils@^8.13.0", "@typescript-eslint/utils@^8.20.0", "@typescript-eslint/utils@^8.23.0":
   version "8.23.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-8.23.0.tgz#b269cbdc77129fd6e0e600b168b5ef740a625554"
   integrity sha512-uB/+PSo6Exu02b5ZEiVtmY6RVYO7YU5xqgzTIVZwTHvvK3HsL8tZZHFaTLFtRG3CsV4A5mhOv+NZx5BlhXPyIA==
@@ -3341,14 +3341,14 @@ eslint-config-txo-typescript-react@^3.0.6:
     eslint-plugin-react "^7.37.2"
     eslint-plugin-react-hooks "^5.0.0"
 
-eslint-config-txo-typescript@^7.4.6:
-  version "7.4.6"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.6.tgz#af66ce22c85a2d58b3007b64d4ae7f2617e3b861"
-  integrity sha512-tRY6o4qZmOraqCgUEQMg+GBkCQjqDYMqjdS9ozt3SOmeQO4w3dxBEW37DQCLaaSMaNxbe8O5zlUoQlQA5T8MRw==
+eslint-config-txo-typescript@^7.4.10:
+  version "7.4.10"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.10.tgz#cfc92833e9e1b83a8085dbe09c66a149925db92c"
+  integrity sha512-khczBXkNibxXfvSAjdo4RkZ58C5ak7tIhQMEgLgKhTmWz3DUyDW/9fdvUD/T/exo3yFtlwTQxkI7isGdgCs4/w==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.4.1"
     "@stylistic/eslint-plugin" "^2.13.0"
-    "@typescript-eslint/utils" "^8.22.0"
+    "@typescript-eslint/utils" "^8.23.0"
     eslint "^9.19.0"
     eslint-config-love "^118.0.0"
     eslint-import-resolver-typescript "^3.7.0"
@@ -3357,7 +3357,7 @@ eslint-config-txo-typescript@^7.4.6:
     eslint-plugin-n "^17.15.1"
     eslint-plugin-promise "^7.2.1"
     globals "^15.14.0"
-    typescript-eslint "^8.22.0"
+    typescript-eslint "^8.23.0"
     yargs "^17.7.2"
 
 eslint-import-resolver-node@^0.3.6, eslint-import-resolver-node@^0.3.9:
@@ -8445,7 +8445,7 @@ typed-array-length@^1.0.7:
     possible-typed-array-names "^1.0.0"
     reflect.getprototypeof "^1.0.6"
 
-typescript-eslint@^8.20.0, typescript-eslint@^8.22.0:
+typescript-eslint@^8.20.0, typescript-eslint@^8.23.0:
   version "8.23.0"
   resolved "https://registry.yarnpkg.com/typescript-eslint/-/typescript-eslint-8.23.0.tgz#796deb48f040146b68fcc8cb07db68b87219a8d2"
   integrity sha512-/LBRo3HrXr5LxmrdYSOCvoAMm7p2jNizNfbIpCgvG4HMsnoprRUOce/+8VJ9BDYWW68rqIENE/haVLWPeFZBVQ==
