@@ -64,6 +64,7 @@ export const configList = typescriptEslintConfig(
       'postcss.config.mjs',
       'release.config.js',
       'src/GraphQl/index.ts',
+      'playwright-report/**/*',
     ],
   },
 )
