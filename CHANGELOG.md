@@ -1,3 +1,10 @@
+## [1.0.34](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.33...v1.0.34) (2025-02-18)
+
+
+### Bug fixes
+
+* ignore generated `playwright-report` folder ([#66](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/66)) ([e8e8ae3](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/e8e8ae370356b7ffa10eb930f74763ac22cbe86c))
+
 ## [1.0.33](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.32...v1.0.33) (2025-02-18)
 
 
