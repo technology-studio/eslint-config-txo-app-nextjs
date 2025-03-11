@@ -1,3 +1,10 @@
+## [1.0.49](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.48...v1.0.49) (2025-03-11)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-next to ^15.2.2 ([#91](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/91)) ([b3dff23](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/b3dff23b90b7b30eace6643d136eb934405842f2))
+
 ## [1.0.48](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.47...v1.0.48) (2025-03-11)
 
 
