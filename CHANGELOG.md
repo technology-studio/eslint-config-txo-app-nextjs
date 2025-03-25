@@ -1,3 +1,10 @@
+## [1.0.61](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.60...v1.0.61) (2025-03-25)
+
+
+### Bug fixes
+
+* **deps:** update eslint txo packages ([#110](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/110)) ([8208489](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/8208489bcc0347b0f199410bba2ca46efc930bfb))
+
 ## [1.0.60](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.59...v1.0.60) (2025-03-22)
 
 
