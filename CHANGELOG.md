@@ -1,3 +1,38 @@
+## [1.0.86](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.85...v1.0.86) (2025-05-13)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-txo-typescript to ^7.4.74 ([#154](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/154)) ([33192ee](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/33192ee77bb025e0aba06bd3877b8514f6330328))
+
+## [1.0.85](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.84...v1.0.85) (2025-05-13)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-txo-typescript to ^7.4.73 ([#153](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/153)) ([3e1d4f1](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/3e1d4f137aca62203b27e4fcc28a8d12b3d7bcb8))
+
+## [1.0.84](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.83...v1.0.84) (2025-05-09)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-txo-typescript to ^7.4.72 ([#150](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/150)) ([a3df431](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/a3df431b0a582b4e800a0601b927f14a43ea9c23))
+
+## [1.0.83](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.82...v1.0.83) (2025-05-07)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-txo-typescript to ^7.4.71 ([#148](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/148)) ([e35e8c0](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/e35e8c0463c6ec03e1c2cc2cf002f5a7dbf3ede8))
+
+## [1.0.82](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.81...v1.0.82) (2025-05-07)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-next to ^15.3.2 ([#147](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/147)) ([8ae55bf](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/8ae55bfb1abc9339987b4c166dba7471cf3f2a6c))
+
 ## [1.0.81](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.80...v1.0.81) (2025-05-06)
 
 
