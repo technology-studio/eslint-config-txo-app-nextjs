@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "eslint-config-next": "^15.3.2",
-    "eslint-config-txo-typescript": "^7.4.81",
+    "eslint-config-txo-typescript": "^7.4.83",
     "eslint-config-txo-typescript-react": "^3.0.6"
   },
   "devDependencies": {
