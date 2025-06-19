@@ -39,8 +39,8 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "eslint-config-next": "^15.3.3",
-    "eslint-config-txo-typescript": "^7.4.96",
+    "eslint-config-next": "^15.3.4",
+    "eslint-config-txo-typescript": "^7.4.97",
     "eslint-config-txo-typescript-react": "^3.0.6"
   },
   "devDependencies": {
