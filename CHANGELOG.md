@@ -1,3 +1,10 @@
+## [1.0.104](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.103...v1.0.104) (2025-06-24)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-txo-typescript to ^7.4.98 ([#185](https://github.com/technology-studio/eslint-config-txo-app-nextjs/issues/185)) ([58940fa](https://github.com/technology-studio/eslint-config-txo-app-nextjs/commit/58940fa3bef189bd776aab79ddb7bc474c335d1e))
+
 ## [1.0.103](https://github.com/technology-studio/eslint-config-txo-app-nextjs/compare/v1.0.102...v1.0.103) (2025-06-19)
 
 
