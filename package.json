@@ -39,7 +39,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "eslint-config-next": "^15.4.1",
+    "eslint-config-next": "^15.4.2",
     "eslint-config-txo-typescript": "^7.4.102",
     "eslint-config-txo-typescript-react": "^3.0.6"
   },
