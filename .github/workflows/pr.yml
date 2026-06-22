@@ -1,4 +1,4 @@
-name: "PR"
+name: 'PR'
 
 on:
   pull_request_target:
@@ -7,8 +7,11 @@ on:
       - edited
       - synchronize
 
+permissions:
+  pull-requests: read
+
 jobs:
   semantic-title:
-    name: "Semantic title"
-    uses: technology-studio/github-workflows/.github/workflows/_semantic-title.yml@main
+    name: 'Semantic title'
+    uses: technology-studio/github-workflows/.github/workflows/_semantic-title.yml@696ee6d68a8fdb357c5a6e26e748fba32f09a9bb # main
     secrets: inherit
